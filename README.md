@@ -121,7 +121,7 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 ---
 
 ## 🤝 **Connect with Me**
-- **==PavanKumar Kothuri==**
+- **PavanKumar Kothuri**
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/iamkpk/)
 - 💻 [GitHub Profile](https://github.com/PavanKumarKothuri)  
 - ✉️ [Email](mailto:pavankumarkothuri9@gmail.com)  
