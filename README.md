@@ -2,7 +2,7 @@
 
 # 🌐 Static Website Hosting on AWS S3 with Custom Domain 🚀  
 
-This project demonstrates how to host a **static website** on AWS S3 and map it to a **custom domain** using Route 53. It's perfect for showcasing AWS skills in your portfolio and impressing recruiters! 💼  
+This project demonstrates how to host a **static website** on AWS S3 and map it to a **custom domain** using Route 53. 
 
 ---
 
@@ -120,7 +120,7 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 **Connect with Me**
+## 🤝 **Contact**
 - **PavanKumar Kothuri**
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/iamkpk/)
 - 💻 [GitHub Profile](https://github.com/PavanKumarKothuri)  
