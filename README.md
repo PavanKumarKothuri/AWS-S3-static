@@ -120,12 +120,11 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 **Contact**
-- **PavanKumar Kothuri**
+## **📫 Contact**
+- PavanKumar Kothuri
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/iamkpk/)
 - 💻 [GitHub Profile](https://github.com/PavanKumarKothuri)  
-- ✉️ [Email](mailto:pavankumarkothuri9@gmail.com)  
-
+- ✉️ [Email: pavankumarkothuri9@gmail.com](mailto:pavankumarkothuri9@gmail.com)
 Feel free to connect with me or open an issue or pull request on this repository for further discussions or contributions.
 
 ---
